@@ -11,6 +11,7 @@
 -	2.STM32 use USART transport data ,pc receive by pySerial
 -	3.After the PC-side image recognizes the person, the STM32 is notified. If the STM32 does not operate in the normal mode, if it is in the alert mode, an alarm will be issued and a message will be sent back to the PC
 -	4.When the PC receives the return, it will use the communication software (Telegram) to inform the user
+-- https://drive.google.com/file/d/1Xjlm1hEqwniTkEjhUSxWP-jcd4Pb3YIq/view?usp=sharing
 
 
 ## References
