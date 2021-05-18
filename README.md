@@ -1,7 +1,10 @@
 ## Environment
 Windows 10 (Surface Pro 2017)
+
 Python 3.7.3
+
 TensorFlow 2.0
+
 ebf_stm32f429
 
 ## Principle
